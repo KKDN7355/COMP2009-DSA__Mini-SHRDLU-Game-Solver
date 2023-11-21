@@ -39,5 +39,4 @@ The project includes a demonstration of the program, showcasing its functionalit
 
 It also has an A* search feature.
 
-I received a full 100/100 for this.
-
+Final Grade: 100/100
