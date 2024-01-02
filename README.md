@@ -24,15 +24,6 @@ To use the program:
 2. Run the executable or program file.
 3. Follow the on-screen prompts to interact with the Mini-SHRDLU game.
 
-## Requirements
-
-The implementation covers different levels of complexity, from basic functionality to advanced features, as specified in the original assignment requirements:
-
-- **Pass Level**: Basic functionalities including state representation, random initialization, legal action execution, and basic goal achievement.
-- **Credit Level**: Addition of heuristic function to improve search algorithm efficiency.
-- **Distinction Level**: Solving multiple goals and checking for consistency among conjunctive goals.
-- **High Distinction Level**: Generalizing the program for larger board sizes and comprehensive complexity analysis.
-
 ## Demonstration
 
 The project includes a demonstration of the program, showcasing its functionalities and adherence to the assignment requirements. The demonstration involves showcasing the implemented features, running the program, and explaining the codebase and design choices.
