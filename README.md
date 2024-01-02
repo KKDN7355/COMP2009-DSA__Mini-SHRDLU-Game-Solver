@@ -6,28 +6,15 @@ This project is an implementation of the Mini-SHRDLU game, a computer game inspi
 
 The program allows users to interact with a Mini-SHRDLU game, where the goal is to move numbered blocks within an n * n vertically suspended board. The blocks must be placed in columns, next to each other down to the bottom in each column. The program generates an initial state of the board randomly and provides functionalities to execute legal actions, find a sequence of actions to reach a goal state, and display the game board state.
 
-## Features
-
-- **State Representation**: The game state is represented using appropriate data structures.
-- **Random Initialization**: Generates a random initial state for the game board.
-- **Legal Action Execution**: Executes legal actions to move blocks between columns.
-- **Search Algorithm**: Implements an A* search algorithm to find a goal state.
-- **Heuristic Functionality**: Includes a heuristic function to prioritize actions for more efficient goal achievement.
-- **Supports Multiple Goals**: Handles disjunctive and conjunctive goals.
-- **Scalability**: The program is designed to handle larger board sizes and variable block counts.
-
 ## Usage
 
 To use the program:
 
-1. Compile the source code using an appropriate compiler for C++, Java, or Python.
+1. Compile the source code using an appropriate compiler for C++.
 2. Run the executable or program file.
 3. Follow the on-screen prompts to interact with the Mini-SHRDLU game.
 
-## Demonstration
+## Other
 
-The project includes a demonstration of the program, showcasing its functionalities and adherence to the assignment requirements. The demonstration involves showcasing the implemented features, running the program, and explaining the codebase and design choices.
-
-It also has an A* search feature.
-
-Final Grade: 100/100
+- Features an A* search feature.
+- Final Grade: 100/100
